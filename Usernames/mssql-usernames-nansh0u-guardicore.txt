@@ -8,3 +8,13 @@ test
 users
 vice
 wwo
+username
+administrator
+Administrator
+user1
+alex
+pos
+demo
+db2admin
+Admin
+sql
